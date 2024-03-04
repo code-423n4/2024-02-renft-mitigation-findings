@@ -1,0 +1,8 @@
+{
+  "contest": 339,
+  "handle": "juancito",
+  "risk": "2",
+  "title": "All orders can be hijacked to lock rental assets forever by tipping a huge amount of small ERC20 tips",
+  "issueId": 25,
+  "issueUrl": "https://github.com/code-423n4/2024-02-renft-mitigation-findings/issues/25"
+}
